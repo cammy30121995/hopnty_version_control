@@ -14,7 +14,7 @@ Hopnty
 
    
 ## Prequisites
-1. You should have Python 3, NumPy, and pandas installed using Anaconda
+1. You should have Python 4, NumPy, and pandas installed using Anaconda
 2. A text editor, like Sublime(opens in a new tab) or Atom(opens in a new tab).
 3. A terminal application (Terminal on Mac and Linux or Git Bash on Windows).
 
