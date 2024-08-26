@@ -3,7 +3,7 @@ Hopnty
 
 ## Project: Udacity bikeshare -version control
 
-## Date: 0826
+## Date: 20240826
 
 ## Project Overview
   Over the past decade, bicycle-sharing systems have been growing in number and popularity in cities across the world. Bicycle-sharing systems allow users to rent bicycles on a very short-term basis for a price. This allows people to borrow a bike from point A and return it at point B, though they can also return it to the same location if they'd like to just go for a ride. Regardless, each bike can serve several users per day.
